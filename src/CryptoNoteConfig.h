@@ -211,9 +211,10 @@ const static boost::uuids::uuid CRYPTONOTE_NETWORK =
 };
 
 const char* const SEED_NODES[] = {
-  "35.237.29.150:11898",//awp1
-  "104.196.248.254:11898", //awp2
-  "35.235.92.31:11898", //instance1
- 
+  "35.230.56.180 :11897",//instance1
+  "35.231.23.112:11897", //instance2
+  "335.227.28.85:11897", //instance3
+  "35.237.216.130:11897", //instance4
+
 };
 } // <3 CryptoNote & TURTLE - Alexander Klein 
