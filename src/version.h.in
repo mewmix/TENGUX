@@ -3,7 +3,7 @@
 
 #define PROJECT_NAME "Tengu"
 #define PROJECT_SITE "comingsoon.com"
-#define PROJECT_COPYRIGHT "Copyright 2018, Alexander Klein"
+#define PROJECT_COPYRIGHT "Copyright 2019, Alexander Klein"
 #define APP_VER_MAJOR 0
 #define APP_VER_MINOR 0
 #define APP_VER_REV 1
